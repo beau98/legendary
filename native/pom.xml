@@ -1,5 +1,7 @@
-<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd"
-         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://maven.apache.org/POM/4.0.0">
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
     <parent>
         <artifactId>legendary</artifactId>
         <groupId>com.beau.ahead</groupId>
@@ -7,12 +9,6 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
     <artifactId>native</artifactId>
-    <name>native Tapestry 5 Application</name>
+    <name>native</name>
     <packaging>jar</packaging>
-    <properties>
-
-    </properties>
-
-    <dependencies>
-    </dependencies>
 </project>
